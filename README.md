@@ -3,8 +3,10 @@
 </div>
 
 <div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=Joseph-S-Budney&style=flat-square&color=blue" alt=""/>
+  
 </div>
+
+<img align="center" src="https://komarev.com/ghpvc/?username=Joseph-S-Budney&style=flat-square&color=blue" alt=""/>
 
 <h1 align="center">Hello, nice to meet you!<img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="50" /></h1>
 
