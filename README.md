@@ -11,7 +11,7 @@
 <h1 align="center">Hello, nice to meet you!<img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="50" /></h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWgxYmdkeGoxMnRqOHhhOGcxajV6NWhrM2diZmkzMDlkdW4xNzBqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MaUxCLVAb9WelPRXnF/giphy.gif" width="600" height="300"/>
+  <img src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif" width="600" height="300"/>
 </div>
 
 - 🔭 I’m currently working on the Bay Path website.
