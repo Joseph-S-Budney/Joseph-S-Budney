@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h1 align="center">Hello, nice to meet you!<img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="50" /></h1>
 
 - 🔭 I’m currently working on the Bay Path website.
