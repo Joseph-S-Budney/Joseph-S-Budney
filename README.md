@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there
 <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50px" />
 - 🔭 I’m currently working on the Bay Path website.
 - 🌱 I’m currently learning Svelte & C.
