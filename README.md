@@ -1,4 +1,5 @@
 <h1 align="center">Hello, nice to meet you!<img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="50" /></h1>
+
 - 🔭 I’m currently working on the Bay Path website.
 - 🌱 I’m currently learning Svelte & C.
 - 👯 I’m looking to collaborate on web dev.
