@@ -11,7 +11,7 @@
 <h1 align="center">Hello, nice to meet you!<img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="50" /></h1>
 
 <div align="center">
-  <img src="https://hackernoon.com/images/f2px36fy.gif" width="600" height="300"/>
+  <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="600" height="300"/>
 </div>
 
 - 🔭 I’m currently working on the Bay Path website.
