@@ -46,6 +46,4 @@
 
 ### 🔥 My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joseph-S-Budney&langs_count=8&theme=apprentice&mode=daily)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-S-Budney&layout=donut-vertical&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joseph-S-Budney&langs_count=8&theme=apprentice&mode=daily)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-S-Budney&layout=donut-vertical&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
