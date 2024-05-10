@@ -48,5 +48,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joseph-S-Budney&theme=material&mode=daily)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-S-Budney&layout=pie&theme=material)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
