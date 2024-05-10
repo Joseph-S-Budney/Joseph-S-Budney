@@ -46,4 +46,6 @@
 
 ### 🔥 My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joseph-S-Budney&theme=material&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joseph-S-Budney&theme=material&mode=daily)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-S-Budney&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
